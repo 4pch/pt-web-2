@@ -1,0 +1,68 @@
+body 
+{  
+    background-color: #55a4d1;
+    font-family: 'Courier New', Courier, monospace;
+    color: #09045c;
+}
+
+.col-1.nav_logo 
+{
+    background: url(../images/ice-logo.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 60px;
+    height: 60px;
+}
+
+.nav_bar 
+{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.nav_text 
+{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.title_photo 
+{
+    text-align: center;
+}
+
+.ice_photo
+{
+    background: url(../images/ice-1.jpeg) no-repeat;
+    background-size: 100%;
+    width: 700px;
+    height: 500px;
+}
+
+.row 
+{
+}
+
+.col-8 
+{
+}
+
+.col-4 
+{
+}
+
+
+.img_size 
+{
+}
+
+
+.container 
+{
+    margin-top: 10px;
+}
+
+
+.col-9 
+{
+}
